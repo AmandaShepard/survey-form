@@ -1,0 +1,16 @@
+body {
+  background-image: url("https://share.icloud.com/photos/0a34apEjcwBaOFxsBZ8K56KSQ");
+}
+textarea {
+  border: 1px solid black;
+}
+input:radio {
+  border: 1px solid black
+}
+button{
+  text-align: center;
+}
+body {
+  background-color: pink;
+  background-image: url("https://www.warrenphotographic.co.uk/photography/bigs/15533-Black-and-white-female-cat-looking-back-white-background.jpg")
+}
